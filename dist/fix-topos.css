@@ -43,4 +43,5 @@
 @keyframes score-float{0%{opacity:0;transform:translate(-50%,10px) scale(.8)}15%{opacity:1;transform:translate(-50%,-12px) scale(1.08)}100%{opacity:0;transform:translate(-50%,-95px) scale(1)}}
 .brand b{letter-spacing:-.05em!important}
 .brand span{font-size:.62rem!important;letter-spacing:.04em!important}
+.brand span{color:#111!important;text-shadow:none!important}
 .mole img{object-fit:contain!important;object-position:center bottom!important;clip-path:none!important}
