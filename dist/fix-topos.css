@@ -31,5 +31,5 @@
 .h3{left:83.7%!important;top:86.3%!important}
 .mole{top:12%!important;bottom:auto!important;transform:translate(-50%,120%)!important;height:105%!important;width:62%!important;background:transparent!important;box-shadow:none!important;overflow:visible!important}
 .mole img{display:block!important;width:100%!important;height:100%!important;object-fit:cover!important;object-position:center top!important;clip-path:ellipse(45% 48% at 50% 39%)!important;filter:drop-shadow(0 4px 2px #3e2419)}
-.hole.up .mole{transform:translate(-50%,-18%)!important;visibility:visible!important;opacity:1!important}
+.hole.up .mole{transform:translate(-50%,-25%)!important;visibility:visible!important;opacity:1!important}
 .mole img{object-fit:contain!important;object-position:center bottom!important;clip-path:none!important}
